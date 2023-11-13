@@ -6,7 +6,8 @@
     "packages/tools",
     "packages/streaming-image-volume-loader",
     "packages/nifti-volume-loader",
-    "packages/dicomImageLoader"
+    "packages/dicomImageLoader",
+    "packages/itk-image-volume-loader"
   ],
   "npmClient": "yarn",
   "useWorkspaces": true
