@@ -1,5 +1,5 @@
 {
-  "name": "@cornerstonejs/tools",
+  "name": "@jinkoo-cornerstonejs/tools",
   "version": "1.28.2",
   "description": "Cornerstone3D Tools",
   "main": "src/index.ts",

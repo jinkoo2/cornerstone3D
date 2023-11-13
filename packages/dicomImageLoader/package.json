@@ -1,5 +1,5 @@
 {
-  "name": "@cornerstonejs/dicom-image-loader",
+  "name": "@jinkoo-cornerstonejs/dicom-image-loader",
   "version": "1.28.2",
   "description": "Cornerstone Image Loader for DICOM WADO-URI and WADO-RS and Local file",
   "keywords": [

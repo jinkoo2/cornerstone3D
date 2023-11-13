@@ -1,5 +1,5 @@
 {
-  "name": "@cornerstonejs/streaming-image-volume-loader",
+  "name": "@jinkoo-cornerstonejs/streaming-image-volume-loader",
   "version": "1.28.2",
   "description": "",
   "main": "src/index.ts",

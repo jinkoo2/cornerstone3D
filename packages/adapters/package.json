@@ -1,5 +1,5 @@
 {
-    "name": "@cornerstonejs/adapters",
+    "name": "@jinkoo-cornerstonejs/adapters",
     "version": "1.28.2",
     "description": "Adapters for Cornerstone3D to/from formats including DICOM SR and others",
     "src": "src/index.ts",
