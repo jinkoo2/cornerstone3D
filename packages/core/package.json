@@ -1,5 +1,5 @@
 {
-  "name": "@jinkoo-cornerstonejs/core",
+  "name": "@jinkoo2/cornerstonejs-core",
   "version": "1.28.3",
   "description": "",
   "main": "src/index.ts",
@@ -45,5 +45,6 @@
   "funding": {
     "type": "individual",
     "url": "https://ohif.org/donate"
-  }
+  },
+  "gitHead": "5c21575e103acc1d8c932f1183008e7108a9cfbc"
 }

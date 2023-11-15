@@ -20,6 +20,7 @@ import LengthTool from './annotation/LengthTool';
 import ProbeTool from './annotation/ProbeTool';
 import DragProbeTool from './annotation/DragProbeTool';
 import RectangleROITool from './annotation/RectangleROITool';
+import CubeROIDisplayTool from './annotation/CubeROIDisplayTool';
 import EllipticalROITool from './annotation/EllipticalROITool';
 import CircleROITool from './annotation/CircleROITool';
 import PlanarFreehandROITool from './annotation/PlanarFreehandROITool';
@@ -68,6 +69,7 @@ export {
   LengthTool,
   ProbeTool,
   RectangleROITool,
+  CubeROIDisplayTool,
   EllipticalROITool,
   CircleROITool,
   PlanarFreehandROITool,

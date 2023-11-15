@@ -52,5 +52,6 @@
         "@cornerstonejs/core": "^1.28.2",
         "@cornerstonejs/streaming-image-volume-loader": "^1.28.2",
         "@cornerstonejs/tools": "^1.28.2"
-    }
+    },
+    "gitHead": "5c21575e103acc1d8c932f1183008e7108a9cfbc"
 }
