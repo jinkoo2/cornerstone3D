@@ -1,6 +1,6 @@
 {
   "name": "@jinkoo2/cornerstonejs-tools",
-  "version": "1.28.4",
+  "version": "1.28.5",
   "description": "Cornerstone3D Tools",
   "main": "src/index.ts",
   "types": "dist/esm/index.d.ts",

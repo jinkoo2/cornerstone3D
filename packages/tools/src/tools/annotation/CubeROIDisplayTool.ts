@@ -255,7 +255,7 @@ class CubeROIDisplayTool extends AnnotationDisplayTool {
     return annotation;
   }
 
-  addAnnotationInImagePhysicalCoordiate(
+  addAnnotationInImagePhysicalCoordinate(
     low_image_org: Types.Point3,
     high_image_org: Types.Point3,
     color?: string

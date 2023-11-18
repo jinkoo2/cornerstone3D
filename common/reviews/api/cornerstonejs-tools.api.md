@@ -1643,7 +1643,7 @@ export class CubeROIDisplayTool extends AnnotationDisplayTool {
     // (undocumented)
     addAnnotationInImageIndex(low_index: Types_2.Point3, high_index: Types_2.Point3, color?: string): Annotation;
     // (undocumented)
-    addAnnotationInImagePhysicalCoordiate(low_image_org: Types_2.Point3, high_image_org: Types_2.Point3, color?: string): Annotation;
+    addAnnotationInImagePhysicalCoordinate(low_image_org: Types_2.Point3, high_image_org: Types_2.Point3, color?: string): Annotation;
     // (undocumented)
     addAnnotationInWorldCoordinate(low_w: Types_2.Point3, high_w: Types_2.Point3, color?: string): Annotation;
     // (undocumented)
